@@ -1,0 +1,3 @@
+[submodule "GoBarber"]
+	path = GoBarber
+	url = https://github.com/gjubal/GoBarber
